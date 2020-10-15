@@ -13,3 +13,17 @@ body{
     margin-right: auto;
     margin-left: auto;
   }
+
+.d-flex{
+    display: flex;
+    flex-direction: row;
+    background: #0ab4b9;
+    border-radius: 0 0 10px 10px;
+    padding: 25px;
+  }
+  form{
+    flex: 3;
+  }
+  .Yorder{
+    flex: 2;
+  }
