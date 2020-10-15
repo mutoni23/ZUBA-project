@@ -1,58 +1,58 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700");
 
 body{
-    background: url("../img/77.jpg");
-    font-family: 'Roboto Condensed', sans-serif;
-    color: #262626;
-    margin: 5% 0;
-  }
-  .container{
-    width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-  }
+  background-image:url('../images/888.jpg');
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #262626;
+  margin: 5% 0;
+}
+.container{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
 
 .d-flex{
-    display: flex;
-    flex-direction: row;
-    background: #0ab4b9;
-    border-radius: 0 0 10px 10px;
-    padding: 25px;
-  }
-  form{
-    flex: 3;
-  }
-  .Yorder{
-    flex: 2;
-  }
-  .title{
-    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #5195A8), color-stop(100, #70EAFF));
-    border-radius:10px 10px 0 0 ;
-    padding: 20px;
-    color: #f6f6f6;
-  }
-  .text-center{
-    font-family: serif; 
-  }
-  .h2{
-    font-family: serif;
-  }
-  .required{
-    color: red;
-  }
-  abel{
-    display: block;
-    margin: 15px;
-  }
-  label>span{
-    float: left;
-    width: 25%;
-    margin-top: 12px;
-    padding-right: 10px;
-  }
-  input[type="text"], input[type="tel"], input[type="email"], select
+  display: flex;
+  flex-direction: row;
+  background: #6aa5f1;
+  border-radius: 0 0 10px 10px;
+  padding: 25px;
+}
+form{
+  flex: 3;
+}
+.Yorder{
+  flex: 2;
+}
+.title{
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #5195A8), color-stop(100, #70EAFF));
+  border-radius:10px 10px 0 0 ;
+  padding: 20px;
+  color: #f6f6f6;
+}
+.text-center{
+  font-family: serif; 
+}
+.h2{
+  font-family: serif;
+}
+.required{
+  color: red;
+}
+label{
+  display: block;
+  margin: 15px;
+}
+label>span{
+  float: left;
+  width: 25%;
+  margin-top: 12px;
+  padding-right: 10px;
+}
+input[type="text"], input[type="tel"], input[type="email"], select
 {
   width: 70%;
   height: 30px;
@@ -61,19 +61,55 @@ body{
   border: 1px solid #dadada;
   color: rgb(79, 210, 243);
 }
+
 button{
-    width: 20%;
-    margin-top: 10px;
-    padding: 10px;
-    border: none;
-    border-radius: 30px;
-    background: #52ad9c;
-    color: #fff;
-    font-size: 15px;
-    font-weight: bold;
-  }
-  button:hover{
-    cursor: pointer;
-    background: #428a7d;
-  }
+  width: 20%;
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 30px;
+  background: #52ad9c;
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
+}
+button:hover{
+  cursor: pointer;
+  background: #1e4d44;
+}
+.form{width:800px;
+  height:440px;
+  background:#6aa5f1;;
+  border-radius:8px;
+  box-shadow:0 0 40px -10px #000;
+  margin:calc(50vh - 220px) auto;
+  padding:20px 30px;
+  max-width:calc(100vw - 40px);
+  box-sizing:border-box;
+  font-family:'Montserrat',sans-serif;
+  position:relative
+}
+input{
+  width:100%;
+  padding:10px;
+  box-sizing:border-box;
+  background:none;
+  outline:none;
+  resize:none;
+  border:0;
+  font-family:'Montserrat',sans-serif;
+  transition:all .3s;
+  border-bottom:2px solid #bebed2;}
+
+.button{
+  width: 20%;
+  margin-top: 10px;
+  padding: 10px;
+  border: none;
+  border-radius: 30px;
+  background: #52ad9c;
+  color: #fff;
+  font-size: 15px;
+  font-weight: bold;
   
+}
