@@ -61,3 +61,19 @@ body{
   border: 1px solid #dadada;
   color: rgb(79, 210, 243);
 }
+button{
+    width: 20%;
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 30px;
+    background: #52ad9c;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  button:hover{
+    cursor: pointer;
+    background: #428a7d;
+  }
+  
