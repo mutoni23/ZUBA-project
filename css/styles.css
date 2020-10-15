@@ -41,3 +41,13 @@ body{
   }
   .required{
     color: red;
+  }
+  abel{
+    display: block;
+    margin: 15px;
+  }
+  label>span{
+    float: left;
+    width: 25%;
+    margin-top: 12px;
+    padding-right: 10px;
