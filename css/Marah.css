@@ -4,7 +4,9 @@ body{
   background-image:url('../images/888.jpg');
   font-family: 'Roboto Condensed', sans-serif;
   color: #262626;
-  margin: 5% 0;
+  /* margin: 5% 0; */
+  
+  
 }
 .container{
   width: 100%;
@@ -12,12 +14,13 @@ body{
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  margin-top: 2%;
 }
 
 .d-flex{
   display: flex;
   flex-direction: row;
-  background: #0ab4b9;
+  background: #F2F3F4;
   border-radius: 0 0 10px 10px;
   padding: 25px;
 }
@@ -69,7 +72,7 @@ button{
   padding: 10px;
   border: none;
   border-radius: 30px;
-  background: #52ad9c;
+  background: #dc3545;;
   color: #fff;
   font-size: 15px;
   font-weight: bold;
@@ -78,9 +81,9 @@ button:hover{
   cursor: pointer;
   background: #1e4d44;
 }
-.form{width:800px;
+#form{width:800px;
   height:440px;
-  background:#0ab4b9;
+  background:#F2F3F4;
   border-radius:8px;
   box-shadow:0 0 40px -10px #000;
   margin:calc(50vh - 220px) auto;
