@@ -1,3 +1,94 @@
+
+
+
+
+
+
+    
+
+
+
+
+#bouquet{
+    height: 20px !important; 
+    
+}
+    
+.card-deck{
+    height: 20px !important;
+    
+}
+#q{
+    height: 390px;
+}
+
+    
+    
+.btn btn-primary{
+    text-align: center;
+}
+    
+#heading {
+    text-align: center;
+}
+
+    
+
+
+.bouque{
+    margin-top: 1000px;
+    margin-left: 80px;
+    
+    
+}
+#n{
+    height:390px;
+}
+#s{
+    height:390px;
+}
+#z{
+    height:380px;
+}
+.b{
+    margin-top:500px;
+    margin-left: 100px;
+}
+
+h2{
+    margin-left: 200px;
+    color: saddlebrown;
+}
+h3{
+    margin-left: 200px;
+    color:saddlebrown;
+}
+.f{
+    margin-top: 500px;
+    margin-left: 100px;
+}
+
+    
+.card-title h5:hover{
+    solid-blue
+     
+}
+#a{
+    height:410;
+}
+#buke {
+    height:500px;
+    width: 900px;
+}
+#content {
+    width: 70%;
+}
+#card {
+    padding-left: 10px;
+
+    
+    
+
 @import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700");
 
 body{
@@ -77,3 +168,4 @@ button{
     background: #428a7d;
   }
   
+
