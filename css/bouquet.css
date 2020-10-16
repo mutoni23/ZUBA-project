@@ -82,6 +82,7 @@ h3{
 
 img{
     height:300px;
+    
     padding:10px;
 
 }
@@ -91,7 +92,6 @@ img{
 
 p{
     text-align:center;
-    
     margin-left:3em;
     margin-right:3em;
     font-family: fantasy;
