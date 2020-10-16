@@ -2,11 +2,12 @@
 
 
 
-body{
+
+
     
 
 
-}
+
 
 #bouquet{
     height: 20px !important; 
@@ -87,3 +88,84 @@ h3{
 
     
     
+
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700");
+
+body{
+    background: url("../img/77.jpg");
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #262626;
+    margin: 5% 0;
+  }
+  .container{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+.d-flex{
+    display: flex;
+    flex-direction: row;
+    background: #0ab4b9;
+    border-radius: 0 0 10px 10px;
+    padding: 25px;
+  }
+  form{
+    flex: 3;
+  }
+  .Yorder{
+    flex: 2;
+  }
+  .title{
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0, #5195A8), color-stop(100, #70EAFF));
+    border-radius:10px 10px 0 0 ;
+    padding: 20px;
+    color: #f6f6f6;
+  }
+  .text-center{
+    font-family: serif; 
+  }
+  .h2{
+    font-family: serif;
+  }
+  .required{
+    color: red;
+  }
+  abel{
+    display: block;
+    margin: 15px;
+  }
+  label>span{
+    float: left;
+    width: 25%;
+    margin-top: 12px;
+    padding-right: 10px;
+  }
+  input[type="text"], input[type="tel"], input[type="email"], select
+{
+  width: 70%;
+  height: 30px;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  border: 1px solid #dadada;
+  color: rgb(79, 210, 243);
+}
+button{
+    width: 20%;
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 30px;
+    background: #52ad9c;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+  }
+  button:hover{
+    cursor: pointer;
+    background: #428a7d;
+  }
+  
+
