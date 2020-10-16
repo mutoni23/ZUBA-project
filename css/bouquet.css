@@ -1,0 +1,109 @@
+
+
+
+
+#bouquet{
+    height: 20px !important; 
+    
+}
+    
+.card-deck{
+    height: 20px !important;
+    
+}
+#q{
+    height: 390px;
+}
+
+    
+    
+.btn btn-primary{
+    text-align: center;
+    
+}
+    
+#heading {
+    text-align: center;
+}
+
+
+#n{
+    height:390px;
+}
+#s{
+    height:390px;
+}
+#z{
+    height:380px;
+}
+.b{
+    margin-top:500px;
+    margin-left: 100px;
+}
+
+h2{
+    margin-left: 200px;
+    color: saddlebrown;
+}
+h3{
+    margin-left: 200px;
+    color:saddlebrown;
+    margin:1em;
+}
+.f{
+    margin-top: 500px;
+    margin-left: 100px;
+}
+
+    
+.card-title h5:hover{
+    color:solid-blue;
+     
+}
+
+#buke {
+    height:500px;
+    width: 900px;
+}
+#content {
+    width: 70%;
+}
+#card {
+    padding-left: 10px;
+  
+
+    
+}
+#zoo{
+    text-align: center;
+    margin-right: 300px;
+    
+} 
+
+img{
+    height:300px;
+    padding:10px;
+
+}
+
+
+
+
+p{
+    text-align:center;
+    margin-left:3em;
+    margin-right:3em;
+    font-family: fantasy;
+    font-size:18px;
+}
+
+
+
+.bouquet{
+    margin-left:12em;
+ 
+}
+
+
+
+
